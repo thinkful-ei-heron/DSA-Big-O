@@ -57,8 +57,8 @@
 
 
 // Drill 09
-// -- O(infinity) Infinite time
-// ---- This search may never find the correct position.
+// -- O(infinity) constant time
+// ---- Doesn't have to search the size just pick a spot at random. 
 
 // Drill 10 
 // -- O(n) Linear time
